@@ -1,14 +1,11 @@
-# Final Project
+# Andrew Dunlop
 
-Welcome to the Final Project repository!
+About Andrew Dunlop!
 
 ## Overview
 
-This project contains the implementation and documentation for the final project.
+This project contains who Andrew Dunlop is, and what his achievements are.
 
-## Getting Started
-
-To get started with this project, follow the instructions below.
 
 ## Installation
 
